@@ -8,5 +8,5 @@
 - 💬 Kindly feel free to ask me about Microsoft SQL sever and Tableau. I would be happy to help
 - 📫 How to reach me: afolabijombomercy@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Data is very intriguing
+- ⚡ Fun fact: SQL is my addiction 
 -->
